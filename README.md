@@ -1,2 +1,2 @@
-# swachev-admin
-Swachev admin console
+# Idea details
+Please provide detailed information
