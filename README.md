@@ -1,6 +1,17 @@
 # Idea details
 Please provide detailed information
 
+# What it does
+COVID-19 Terminator aims at providing immediate support for the users, including self-checking symptoms, spotting highly contaminated regions, designing the safest route from home to the grocery stores/workplaces, checking the availability of goods and wait time of the grocery stores, offering educational information and recommendations about how to take the proper prevention methods, and building a platform to connect users lack of PPE and essential goods with organizations who can donate during the coronavirus outbreak.
+
+# How we built it
+Learn about the Value of this App a) “We answer all your concerns on COVID-19.” b) “We help you find the safest zone.” c) “We help you connect with people in your community.”
+Sign up a) Username: email address/phone number b) Password c) Optional: home address, emergency contact d) Terms and conditions
+Check Symptoms a) Why is self-checking important? - List out the reasons - List out 2 options of self-check: chatbot/checklist b) Self-check questionnaire c) Final score and suggestions d) Chatbot - connect to physicians
+Share Travel History - Connect to Google Maps/Apple Maps a) Screen whether a person is at high risk or low risk based on the places he/she has been to in the past 14 days. b) Locations with high risk will also be spotted on the maps.
+Check Locations & Design Routes - Connect to Google Maps/Apple Maps a) Type the store you want to go to b) The heat map will show you the areas with high/low risk c) Estimate the wait time and check the availability of certain goods in the store
+Useful Information & Recommendations a) Proper use of PPE b) DIY mask/goggles tutorial c) An online community to share the resources (like PPE, essentials, etc.) – using the algorithm to match users in need and organization who can provide In the 2nd phase, we are going to use Python Django, Java Springboot to build our application.
+
 ## Steps to Setup the Spring Boot Back end app (evliion-app-server)
 
 1. **Clone the application**
