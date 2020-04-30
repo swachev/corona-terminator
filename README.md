@@ -1,5 +1,5 @@
-# Idea details
-Please provide detailed information
+# Idea
+## Corona Terminator
 
 # What it does
 COVID-19 Terminator aims at providing immediate support for the users, including self-checking symptoms, spotting highly contaminated regions, designing the safest route from home to the grocery stores/workplaces, checking the availability of goods and wait time of the grocery stores, offering educational information and recommendations about how to take the proper prevention methods, and building a platform to connect users lack of PPE and essential goods with organizations who can donate during the coronavirus outbreak.
